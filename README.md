@@ -21,3 +21,4 @@ npm install
 ```console 
 npm start
 ```
+4. Use the API :)
